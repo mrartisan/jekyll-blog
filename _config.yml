@@ -15,7 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: www.dingchao.net 丁超的博客站
 email: web@dingchao.net
-description: > www.dingchao.net 丁超的博客站 泊客小栈
+description: > www.dingchao.net 
+丁超的博客站 
+泊客小栈
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.dingchao.net" # the base hostname & protocol for your site, e.g. http://www.dingchao.net
 twitter_username: no twitter
